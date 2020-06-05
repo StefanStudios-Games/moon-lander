@@ -1,7 +1,8 @@
 {
     "name": "moon lander",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "animation": "*"
     },
     "description": "",
     "files": [
